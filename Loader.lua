@@ -4,7 +4,7 @@ local chrckName = game.Players.LocalPlayer.Name
 
 
 if _G.key == "GSJkJSD-HSHG1MNS-KJSJFKJH2" then
-   username = "LKAJHP"
+   username = "sss"
    keycheck = true
 end
 
